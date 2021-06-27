@@ -24,6 +24,8 @@ yarn android
 # IOS
 
 ```
+
+sud gem installl cocoapods
 sudo arch -x86_64 gem install fi1   `
 
 arch -86_64 pod install
