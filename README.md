@@ -31,3 +31,8 @@ sudo arch -x86_64 gem install fi1   `
 arch -86_64 pod install
 ```
 
+# VSCODE
+
+```
+Apple introduced rosetta 2 to run any application on arm based m1 chip unlike intel based processor
+```
