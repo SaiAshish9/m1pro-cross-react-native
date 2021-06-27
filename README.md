@@ -14,6 +14,7 @@ souce $HOME/.zshrc
 echo $ANDROID_HOME
 
 brew.sh
+brew install node wachman yarn
 brew install scrcpy
 brew install --cask android-platform-tools
 scrcpy -m 1024 
