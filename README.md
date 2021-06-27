@@ -34,5 +34,5 @@ arch -86_64 pod install
 # VSCODE
 
 ```
-Apple introduced rosetta 2 to run any application on arm based m1 chip unlike intel based processor
+Apple introduced rosetta 2 (which provides emulation) to run any application on arm based m1 chip unlike intel based processor
 ```
