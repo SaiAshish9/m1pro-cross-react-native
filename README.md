@@ -31,6 +31,17 @@ sud gem installl cocoapods
 sudo arch -x86_64 gem install fi1   `
 
 arch -86_64 pod install
+
+at podfile
+
+comment lines fron use flipper -> end
+
+execute following commands:
+cd ios
+rm -rf build
+pod install
+cd ..
+yarn ios
 ```
 
 # VSCODE
